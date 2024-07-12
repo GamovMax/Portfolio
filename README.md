@@ -4,36 +4,15 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал Artsiom Rusau QA Life на [YouTube](https://youtube.com/@rusau) с аудиторией более 160.000 человек. За время преподавательской деятельности занимался обучением более 160000 студентов на разных платформах.
-
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
-- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- 📚 Все мои [курсы](https://rusau.net/courses)
-- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
-
----
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
----
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Ответы на вопросы тестировщику](https://www.youtube.com/watch?v=8G8KCTEU7p8)
-- [ДЕЛАЙ ЭТО, ЧТОБЫ НЕ ПОТЕРЯТЬ БАГ РЕПОРТ #shorts #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=RMh7TqS7sA4)
-- [Тестовая документация для тестировщика](https://www.youtube.com/watch?v=LIpXj68VVCo)
-- [Приглашение на хакатон ✨raptors.dev✨ #хакатон #shorts](https://www.youtube.com/watch?v=SXMt3rncbM0)
-- [ТЕСТИРОВЩИК - ЭТО ДНО 🗿](https://www.youtube.com/watch?v=4G9fIPbQp8Q)
-<!-- YOUTUBE:END -->
+Работа с тест-кейсами (TestRail)
+Тестирование backend (Java, REST assured, postman, swagger, devtools, Python, pytest, requests)
+Разработка ui автотестов (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)
+Работа с виртуальными машинами (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и
+физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory,
+XMPP(ejabberd), web-сервера.
+Оформление и сопровождение багов (Readmine, Mantis)
+Сниффер трафика (Charles Proxy)
+Базовое нагрузочное тестирование (Jmeter, Locust, wrk, Apache Bench, vegeta, siege)
 
 ---
 
