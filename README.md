@@ -74,6 +74,8 @@ XMPP(ejabberd), web-сервера.
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp
+
 </div>
 
 ---
