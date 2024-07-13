@@ -4,15 +4,15 @@
 
 ### 👨‍💻 Обо мне:
 
-Работа с тест-кейсами (TestRail)
-Тестирование backend (Java, REST assured, postman, swagger, devtools, Python, pytest, requests)
-Разработка ui автотестов (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)
+Работа с тест-кейсами (TestRail)&nbsp
+Тестирование backend (Java, REST assured, postman, swagger, devtools, Python, pytest, requests)&nbsp
+Разработка ui автотестов (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)&nbsp
 Работа с виртуальными машинами (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и
 физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory,
-XMPP(ejabberd), web-сервера.
-Оформление и сопровождение багов (Readmine, Mantis)
-Сниффер трафика (Charles Proxy)
-Базовое нагрузочное тестирование (Jmeter, Locust, wrk, Apache Bench, vegeta, siege)
+XMPP(ejabberd), web-сервера.&nbsp
+Оформление и сопровождение багов (Readmine, Mantis)&nbsp
+Снифферы трафика (Charles Proxy, Fiddler)&nbsp
+Базовое нагрузочное тестирование (Jmeter, Locust, wrk, Apache Bench, vegeta, siege)&nbsp
 
 ---
 
