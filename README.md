@@ -70,7 +70,7 @@ XMPP(ejabberd), web-сервера.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="90" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
 </div>
 
 ---
@@ -80,6 +80,8 @@ XMPP(ejabberd), web-сервера.
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" title="Terraform" alt="Terraform" width="170" height="40"/>&nbsp
+
 </div>
 
 ---
