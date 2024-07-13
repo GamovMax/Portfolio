@@ -57,7 +57,7 @@ XMPP(ejabberd), web-сервера.
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" title="MariaDB" alt="MariaDB" width="155" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" title="MariaDB" alt="MariaDB" width="155" height="40"/>&nbsp
 </div>
 
 ---
@@ -69,6 +69,7 @@ XMPP(ejabberd), web-сервера.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="90" height="40"/>&nbsp
 </div>
 
 ---
