@@ -89,6 +89,7 @@ XMPP(ejabberd), web-сервера.
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" alt="VMware Workstation" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
 </div>
 
 ---
