@@ -72,6 +72,7 @@ XMPP(ejabberd), web-сервера.
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" title="Atom" alt="Atom" width="45" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" title="Notepad++" alt="Notepad++" width="50" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="90" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JetBrains_PhpStorm_Product_Logo.svg" title="PhpStorm" alt="PhpStorm" width="130" height="40"/>&nbsp
