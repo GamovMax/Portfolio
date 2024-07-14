@@ -76,7 +76,6 @@ XMPP(ejabberd), web-сервера.
   <img src="https://www.selenium.dev/images/logos/webdriver.svg" title="Selenium WebDriver" alt="Selenium WebDriver" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/grid.svg" title="Selenium Grid" alt="Selenium Grid" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/08/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Embarcadero_Delphi.png" title="Delphi" alt="Delphi" width="40" height="40"/>&nbsp
-</div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" title="Notepad++" alt="Notepad++" width="50" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="130" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
@@ -99,6 +98,7 @@ XMPP(ejabberd), web-сервера.
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" title="XMPP" alt="XMPP" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Ejabberd_icon.png" title="ejabberd" alt="ejabberd" width="40" height="40"/>&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" title="Debian" alt="Debian" width="35" height="40"/>&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" title="CentOS" alt="CentOS" width="110" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
 </div>
