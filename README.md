@@ -27,7 +27,7 @@ XMPP(ejabberd), web-сервера.
 <div>
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Redmine_logo.svg" title="Redmine" alt="Redmine" width="160" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/ru/0/00/Mantis_logo.gif" title="Mantis" alt="Mantis" width="95" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/00/Mantis_logo.gif" title="Mantis" alt="Mantis" width="95" height="40"/>&nbsp
 </div>
 
 ---
@@ -77,16 +77,16 @@ XMPP(ejabberd), web-сервера.
   <img src="https://www.selenium.dev/images/logos/grid.svg" title="Selenium Grid" alt="Selenium Grid" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/08/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Embarcadero_Delphi.png" title="Delphi" alt="Delphi" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" title="Notepad++" alt="Notepad++" width="50" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="130" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
-  <br><img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JetBrains_PhpStorm_Product_Logo.svg" title="PhpStorm" alt="PhpStorm" width="130" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/JetBrains_WebStorm_Product_Logo.svg" title="WebStorm" alt="WebStorm" width="130" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="130" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
+  <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JetBrains_PhpStorm_Product_Logo.svg" title="PhpStorm" alt="PhpStorm" width="130" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/JetBrains_WebStorm_Product_Logo.svg" title="WebStorm" alt="WebStorm" width="130" height="40"/>&nbsp
 </div>
 
 ---
 
-### 🛠 Администрирование и DevOps-инструменты:
+### ⚙ Администрирование и DevOps-инструменты:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
@@ -99,8 +99,9 @@ XMPP(ejabberd), web-сервера.
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Ejabberd_icon.png" title="ejabberd" alt="ejabberd" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" title="Debian" alt="Debian" width="35" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" title="Ubuntu" alt="Ubuntu" width="145" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Red_Hat_Enterprise_Linux_logo.svg" title="Red Hat Enterprise Linux" alt="Red Hat Enterprise Linux" width="175" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" title="CentOS" alt="CentOS" width="110" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
 </div>
 
