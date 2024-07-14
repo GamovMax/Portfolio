@@ -76,7 +76,7 @@ XMPP(ejabberd), web-сервера.
   <img src="https://www.selenium.dev/images/logos/webdriver.svg" title="Selenium WebDriver" alt="Selenium WebDriver" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/grid.svg" title="Selenium Grid" alt="Selenium Grid" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" title="Notepad++" alt="Notepad++" width="50" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="120" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="130" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
   <br><img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JetBrains_PhpStorm_Product_Logo.svg" title="PhpStorm" alt="PhpStorm" width="130" height="40"/>&nbsp
@@ -96,5 +96,7 @@ XMPP(ejabberd), web-сервера.
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
 </div>
+ <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" title="XMPP" alt="XMPP" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Ejabberd_icon.png" title="ejabberd" alt="ejabberd" width="40" height="40"/>&nbsp
 
 ---
