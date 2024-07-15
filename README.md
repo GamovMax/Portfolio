@@ -10,9 +10,7 @@
 
 Разработка ui автотестов (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)
 
-Работа с виртуальными машинами (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и
-физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory,
-XMPP(ejabberd), web-сервера.
+Работа с виртуальными машинами (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
 Оформление и сопровождение багов (Readmine, Mantis)
 
@@ -127,6 +125,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/08/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Embarcadero_Delphi.png" title="Delphi" alt="Delphi" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" title="Notepad++" alt="Notepad++" width="50" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="130" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp
