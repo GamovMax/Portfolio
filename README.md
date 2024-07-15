@@ -26,6 +26,7 @@ XMPP(ejabberd), web-сервера.
 C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
 
 Курсы:
+
 https://stepik.org/cert/2488794
 https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared
 https://youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv&feature=shared
