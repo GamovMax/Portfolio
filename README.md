@@ -129,6 +129,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg" title="PyCharm" alt="PyCharm" width="130" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="150" height="40"/>&nbsp
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JetBrains_PhpStorm_Product_Logo.svg" title="PhpStorm" alt="PhpStorm" width="130" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/JetBrains_WebStorm_Product_Logo.svg" title="WebStorm" alt="WebStorm" width="130" height="40"/>&nbsp
 </div>
