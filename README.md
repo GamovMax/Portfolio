@@ -25,14 +25,13 @@ XMPP(ejabberd), web-сервера.
 Изучал в колледже и университете:
 C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
 
-Курсы:
-
-https://stepik.org/cert/2488794
-https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared
-https://youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv&feature=shared
-https://stepik.org/cert/2474443
-https://stepik.org/cert/2467136
-https://stepik.org/cert/2465939
+Курсы:<br>
+https://stepik.org/cert/2488794<br>
+https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared<br>
+https://youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv&feature=shared<br>
+https://stepik.org/cert/2474443<br>
+https://stepik.org/cert/2467136<br>
+https://stepik.org/cert/2465939<br>
 https://stepik.org/cert/2470327
 
 Мой базовый framework (Java + Selenium + JUnit + RestAssured):
