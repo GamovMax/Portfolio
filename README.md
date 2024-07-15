@@ -153,6 +153,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" title="CentOS" alt="CentOS" width="110" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/%D0%A0%D0%95%D0%94_%D0%9E%D0%A1_redblack_web.svg" title="РЕД ОС" alt="РЕД ОС" width="105" height="40"/>&nbsp
 </div>
 
 ---
