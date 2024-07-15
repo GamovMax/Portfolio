@@ -156,5 +156,6 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/%D0%A0%D0%95%D0%94_%D0%9E%D0%A1_redblack_web.svg" title="РЕД ОС" alt="РЕД ОС" width="105" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alt_linux_team_logo.png" title="ALT Linux" alt="ALT Linux" width="40" height="40"/>&nbsp
 </div>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
 
 ---
