@@ -142,21 +142,21 @@ https://github.com/GamovMax/JsHtml
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" title="Terraform" alt="Terraform" width="170" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" alt="VMware Workstation" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" title="XMPP" alt="XMPP" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Ejabberd_icon.png" title="ejabberd" alt="ejabberd" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" title="Debian" alt="Debian" width="35" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" title="Ubuntu" alt="Ubuntu" width="145" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Red_Hat_Enterprise_Linux_logo.svg" title="Red Hat Enterprise Linux" alt="Red Hat Enterprise Linux" width="175" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" title="CentOS" alt="CentOS" width="110" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/%D0%A0%D0%95%D0%94_%D0%9E%D0%A1_redblack_web.svg" title="РЕД ОС" alt="РЕД ОС" width="105" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alt_linux_team_logo.png" title="ALT Linux" alt="ALT Linux" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" title="Terraform" alt="Terraform" width="170" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" title="Ubuntu" alt="Ubuntu" width="145" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Red_Hat_Enterprise_Linux_logo.svg" title="Red Hat Enterprise Linux" alt="Red Hat Enterprise Linux" width="175" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" title="CentOS" alt="CentOS" width="110" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/%D0%A0%D0%95%D0%94_%D0%9E%D0%A1_redblack_web.svg" title="РЕД ОС" alt="РЕД ОС" width="105" height="40"/>&nbsp
 </div>
 
 ---
