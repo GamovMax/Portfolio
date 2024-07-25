@@ -146,6 +146,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" title="XMPP" alt="XMPP" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Ejabberd_icon.png" title="ejabberd" alt="ejabberd" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Microsoft_Exchange_%282019-present%29.svg" title="Microsoft Exchange" alt="Microsoft Exchange" width="44" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" title="Debian" alt="Debian" width="35" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alt_linux_team_logo.png" title="ALT Linux" alt="ALT Linux" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
