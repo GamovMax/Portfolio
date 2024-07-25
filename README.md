@@ -30,7 +30,8 @@ https://youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv&feature=sha
 https://stepik.org/cert/2474443<br>
 https://stepik.org/cert/2467136<br>
 https://stepik.org/cert/2465939<br>
-https://stepik.org/cert/2470327
+https://stepik.org/cert/2470327<br>
+https://stepik.org/cert/2525923
 
 Мой базовый framework (Java + Selenium + JUnit + RestAssured):
 https://github.com/GamovMax/SeleniumJavaJUnit
