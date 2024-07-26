@@ -157,6 +157,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" title="Apache HTTP server" alt="Apache HTTP server" width="90" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Joomla%21-Logo.svg" title="Joomla" alt="Joomla" width="202" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCart_logo.svg" title="OpenCart" alt="OpenCart" width="205" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Phpbb3-ccw-logo.png" title="phpBB" alt="phpBB" width="87" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" title="Zabbix" alt="Zabbix" width="159" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" title="Terraform" alt="Terraform" width="170" height="40"/>&nbsp
