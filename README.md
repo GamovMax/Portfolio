@@ -154,6 +154,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" title="Apache HTTP server" alt="Apache HTTP server" width="90" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" title="Zabbix" alt="Zabbix" width="159" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" title="Terraform" alt="Terraform" width="170" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" title="OpenVPN" alt="OpenVPN" width="210" height="40"/>&nbsp
