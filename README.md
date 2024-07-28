@@ -6,7 +6,7 @@
 
 Работа с тест-кейсами (TestRail)
 
-Тестирование backend (Java, REST assured, postman, swagger, devtools, Python, pytest, requests)
+Тестирование backend (Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests)
 
 Разработка ui автотестов (Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest)
 
