@@ -162,6 +162,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Phpbb3-ccw-logo.png" title="phpBB" alt="phpBB" width="87" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Drupal-wordmark.svg" title="Drupal" alt="Drupal" width="150" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" title="Zabbix" alt="Zabbix" width="159" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/ru/b/b9/Logo_Radmin.jpg" title="RAdmin" alt="RAdmin" width="171" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" title="Terraform" alt="Terraform" width="170" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/AnyDesk-logo.svg" title="AnyDesk" alt="AnyDesk" width="216" height="40"/>&nbsp
