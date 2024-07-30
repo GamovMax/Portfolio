@@ -128,7 +128,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" title="Notepad++" alt="Notepad++" width="50" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" title="Notepad++" alt="Notepad++" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp
