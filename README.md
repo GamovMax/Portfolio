@@ -132,7 +132,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/JetBrains_WebStorm_Product_Logo.svg" title="WebStorm" alt="WebStorm" width="130" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp
 </div>
 
 ---
