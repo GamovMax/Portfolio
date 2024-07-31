@@ -172,7 +172,7 @@ https://github.com/GamovMax/JsHtml
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/AnyDesk-logo.svg" title="AnyDesk" alt="AnyDesk" width="216" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/TeamViewer_logo_new.svg" title="TeamViewer" alt="TeamViewer" width="297" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" title="OpenVPN" alt="OpenVPN" width="210" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="145" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" title="Red Hat Enterprise Linux" alt="Red Hat Enterprise Linux" width="40" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" title="CentOS" alt="CentOS" width="110" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
