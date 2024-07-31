@@ -174,7 +174,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" alt="OpenVPN" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" title="Red Hat Enterprise Linux" alt="Red Hat Enterprise Linux" width="40" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" title="CentOS" alt="CentOS" width="110" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/centos-1.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Proxmox.svg" title="Proxmox" alt="Proxmox" width="300" height="40"/>&nbsp
   <br><img src="https://redos.red-soft.ru/about/news/kit/LOGO_RED_OS_CMYK_W.png" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
 </div>
