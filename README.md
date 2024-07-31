@@ -121,7 +121,6 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" title="Sublime Text" alt="Sublime Text" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" title="Atom" alt="Atom" width="45" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" title="Rider" alt="Rider" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/webdriver.svg" title="Selenium WebDriver" alt="Selenium WebDriver" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/grid.svg" title="Selenium Grid" alt="Selenium Grid" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/08/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Embarcadero_Delphi.png" title="Delphi" alt="Delphi" width="40" height="40"/>&nbsp
@@ -133,6 +132,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" title="Rider" alt="Rider" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -155,6 +155,15 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Scalable_gparted.svg" title="GParted" alt="GParted" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" title="Debian" alt="Debian" width="35" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alt_linux_team_logo.png" title="ALT Linux" alt="ALT Linux" width="40" height="40"/>&nbsp
+   <img src="https://www.svgrepo.com/show/448253/terraform.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/anydesk_icon_146231.png" title="AnyDesk" alt="AnyDesk" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/TeamViewer_Logo_Icon_Only.svg" title="TeamViewer" alt="TeamViewer" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" alt="OpenVPN" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" title="Red Hat Enterprise Linux" alt="Red Hat Enterprise Linux" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/centos-1.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp
+  <img src="https://redos.red-soft.ru/about/news/kit/LOGO_RED_OS_CMYK_W.png" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" title="Apache HTTP server" alt="Apache HTTP server" width="90" height="40"/>&nbsp
@@ -168,15 +177,6 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" title="Zabbix" alt="Zabbix" width="159" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/b/b9/Logo_Radmin.jpg" title="RAdmin" alt="RAdmin" width="171" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/448253/terraform.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp
-  <br><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/anydesk_icon_146231.png" title="AnyDesk" alt="AnyDesk" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/TeamViewer_Logo_Icon_Only.svg" title="TeamViewer" alt="TeamViewer" width="40" height="40"/>&nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" alt="OpenVPN" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" title="Red Hat Enterprise Linux" alt="Red Hat Enterprise Linux" width="40" height="40"/>&nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/centos-1.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp
-  <img src="https://redos.red-soft.ru/about/news/kit/LOGO_RED_OS_CMYK_W.png" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
 </div>
 
 ---
