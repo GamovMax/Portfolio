@@ -107,7 +107,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
   <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2013/09/mariadb-logo.png" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp
-  <br><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" title="SQLite" alt="SQLite" width="90" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp
 </div>
 
 ---
