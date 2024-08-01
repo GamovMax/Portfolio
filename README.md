@@ -167,6 +167,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://cdn.worldvectorlogo.com/logos/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" title="Jenkins" alt="Jenkins" width="29" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/wordpress-2.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
   <img src="https://redos.red-soft.ru/about/news/kit/LOGO_RED_OS_CMYK_W.png" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
