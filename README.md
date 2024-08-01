@@ -125,15 +125,16 @@ https://github.com/GamovMax/JsHtml
   <img src="https://www.selenium.dev/images/logos/webdriver.svg" title="Selenium WebDriver" alt="Selenium WebDriver" width="40" height="40"/>&nbsp
   <img src="https://www.selenium.dev/images/logos/grid.svg" title="Selenium Grid" alt="Selenium Grid" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/08/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Embarcadero_Delphi.png" title="Delphi" alt="Delphi" width="40" height="40"/>&nbsp
-  <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" title="Notepad++" alt="Notepad++" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" title="Rider" alt="Rider" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
+
 </div>
 
 ---
