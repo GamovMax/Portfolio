@@ -153,6 +153,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Microsoft_Exchange_%282019-present%29.svg" title="Microsoft Exchange" alt="Microsoft Exchange" width="44" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" title="PuTTY" alt="PuTTY" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp
+  <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg' title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/TightVNC_logo.png' title="TightVNC" alt="TightVNC" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Chrome_Remote_Desktop_logo.png' title="Chrome Remote Desktop" alt="Chrome Remote Desktop" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Oc-logo-1c-invert.svg" title="ownCloud" alt="ownCloud" width="40" height="40"/>&nbsp
