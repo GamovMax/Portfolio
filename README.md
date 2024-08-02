@@ -171,6 +171,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://cdn.worldvectorlogo.com/logos/wordpress-2.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/5218804/pub_63c8e6593719c524dd71db9b_63c8e90d81a65249513047b5/scale_720" title="osTicket" alt="osTicket" width="74" height="40"/>&nbsp
   <img src="https://redos.red-soft.ru/about/news/kit/LOGO_RED_OS_CMYK_W.png" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
