@@ -159,6 +159,7 @@ https://github.com/GamovMax/JsHtml
   <img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Chrome_Remote_Desktop_logo.png' title="Chrome Remote Desktop" alt="Chrome Remote Desktop" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Oc-logo-1c-invert.svg" title="ownCloud" alt="ownCloud" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Scalable_gparted.svg" title="GParted" alt="GParted" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Acronis_True_Image_2015_icon.png" title="Acronis True Image" alt="Acronis True Image" width="46" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" title="Debian" alt="Debian" width="32" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alt_linux_team_logo.png" title="ALT Linux" alt="ALT Linux" width="40" height="40"/>&nbsp
    <img src="https://www.svgrepo.com/show/448253/terraform.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp
