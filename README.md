@@ -172,7 +172,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://cdn.worldvectorlogo.com/logos/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" title="Jenkins" alt="Jenkins" width="29" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/wordpress-2.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  <img src="https://www.gpo-tech.com/wp-content/uploads/2018/05/unnamed.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/5218804/pub_63c8e6593719c524dd71db9b_63c8e90d81a65249513047b5/scale_720" title="osTicket" alt="osTicket" width="74" height="40"/>&nbsp
   <img src="https://redos.red-soft.ru/about/news/kit/LOGO_RED_OS_CMYK_W.png" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
