@@ -145,7 +145,7 @@ https://github.com/GamovMax/JsHtml
 ### ⚙ Администрирование и DevOps-инструменты:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8FPJwYM4BAZf0UD923RcuL_w1knUAjFEerw&s" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" alt="VMware Workstation" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp
