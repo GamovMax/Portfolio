@@ -157,7 +157,7 @@ https://github.com/GamovMax/JsHtml
   <img src='https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg' title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/TightVNC_logo.png' title="TightVNC" alt="TightVNC" width="40" height="40"/>&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Chrome_Remote_Desktop_logo.png' title="Chrome Remote Desktop" alt="Chrome Remote Desktop" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Oc-logo-1c-invert.svg" title="ownCloud" alt="ownCloud" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/owncloud-icon-2048x2048-uuor4edn.png" title="ownCloud" alt="ownCloud" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Scalable_gparted.svg" title="GParted" alt="GParted" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Acronis_True_Image_2015_icon.png" title="Acronis True Image" alt="Acronis True Image" width="46" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" title="Debian" alt="Debian" width="32" height="40"/>&nbsp
