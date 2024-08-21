@@ -190,7 +190,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" title="Zabbix" alt="Zabbix" width="159" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/b/b9/Logo_Radmin.jpg" title="RAdmin" alt="RAdmin" width="171" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
-  <img src="https://www.cdata.com/ui/img/logo-activedirectory.png" title="Active Directory" alt="Active Directory" width="100" height="40"/>&nbsp
+  <img src="https://www.cdata.com/ui/img/logo-activedirectory.png" title="Active Directory" alt="Active Directory" width="90" height="40"/>&nbsp
 </div>
 
 ---
