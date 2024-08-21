@@ -29,6 +29,7 @@ C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
 https://stepik.org/cert/2488794<br>
 https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared<br>
 https://stepik.org/cert/2542670<br>
+https://stepik.org/cert/2539535<br>
 https://stepik.org/cert/2474443<br>
 https://stepik.org/cert/2467136<br>
 https://stepik.org/cert/2465939<br>
