@@ -138,6 +138,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" title="REST assured" alt="REST assured" width="40" height="40"/>&nbsp
 
 </div>
 
