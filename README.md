@@ -194,6 +194,8 @@ https://github.com/GamovMax/JsHtml
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Samba_logo_2010.svg" title="Samba" alt="Samba" width="280" height="40"/>&nbsp
   <img src="https://www.cdata.com/ui/img/logo-activedirectory.png" title="Active Directory" alt="Active Directory" width="90" height="40"/>&nbsp
   <img src="https://www.iredmail.org/images/logo.png" title="iRedmail" alt="iRedmail" width="50" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo-thumbnail.png" title="VMware ESXi VMware vSphere" alt="VMware ESXi VMware vSphere" width="40" height="40"/>&nbsp
+
 </div>
 
 ---
