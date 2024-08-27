@@ -198,6 +198,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://www.iredmail.org/images/logo.png" title="iRedmail" alt="iRedmail" width="50" height="40"/>&nbsp
   <img src="https://w7.pngwing.com/pngs/365/66/png-transparent-vmware-esxi-vmware-vsphere-vmdk-virtual-machine-others-text-rectangle-logo-thumbnail.png" title="VMware ESXi VMware vSphere" alt="VMware ESXi VMware vSphere" width="40" height="40"/>&nbsp
   <img src="https://2037604.fs1.hubspotusercontent-eu1.net/hub/2037604/hubfs/Digital/SS/SS_ADAPT/TRASSIR_actual.png?width=438&name=TRASSIR_actual.png" title="TRASSIR" alt="TRASSIR" width="140" height="40"/>&nbsp
+  <img src="https://pro-locks.ru/image/data/HID/SIGUR.jpg" title="СКУД Sphinx" alt="СКУД Sphinx" width="40" height="40"/>&nbsp
 
 </div>
 
