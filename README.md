@@ -203,6 +203,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://avatars.githubusercontent.com/u/17677083?s=200&v=4" title="mRemoteNG" alt="mRemoteNG" width="40" height="40"/>&nbsp
   <img src="https://migsoft.ru/upload/iblock/6b4/6b4d60380ccd09a4669255e9a7ba9961.png" title="MobaXterm" alt="MobaXterm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" title="TeamCity" alt="TeamCity" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
 
 </div>
 
