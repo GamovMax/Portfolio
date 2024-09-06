@@ -10,7 +10,7 @@
 
 **Разработка ui автотестов:** Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest.
 
-**Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и физическими серверами (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
+**Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и **физическими серверами** (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
 **Оформление и сопровождение багов:** Readmine, Mantis, YouTrack.
 
