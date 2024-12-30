@@ -6,9 +6,9 @@
 
 **Работа с тест-кейсами:** TestRail, Allure TestOps.
 
-**Тестирование backend:** Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests.
+**Тестирование backend:** Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests, Allure.
 
-**Разработка ui автотестов:** Java, JUnit, Selenium, TestNG, Allure, Selenium Grid, Python, pytest.
+**Разработка ui автотестов:** Java, JUnit, Selenium, Playwright, TestNG, Allure, Selenium Grid, Python, pytest.
 
 **Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и **физическими серверами** (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
