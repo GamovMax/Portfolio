@@ -43,7 +43,7 @@ https://stepik.org/cert/2721029<br>
 https://stepik.org/cert/2803215
 
 **Мой базовый framework (Java + Selenium + JUnit + RestAssured):**
-https://github.com/GamovMax/SeleniumJavaJUnit
+https://github.com/GamovMax/tasks
 
 **Автотесты на python (python + pytest + selenium + requests):**
 https://github.com/GamovMax/PythonPytestSeleniumRequests
