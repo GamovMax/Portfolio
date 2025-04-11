@@ -42,39 +42,39 @@ https://stepik.org/cert/2611044<br>
 https://stepik.org/cert/2721029<br>
 https://stepik.org/cert/2803215
 
-**Мой базовый framework (Java + Selenium + JUnit + RestAssured):**
+**Мой базовый framework (Java + Selenium + JUnit + RestAssured):**<br>
 https://github.com/GamovMax/tasks
 
-**Автотесты на python (python + pytest + selenium + requests):**
+**Автотесты на python (python + pytest + selenium + requests):**  <br>
 https://github.com/GamovMax/PythonPytestSeleniumRequests
 
-**Разработанный мною сайт (PHP + HTML + CSS):**
+**Разработанный мною сайт (PHP + HTML + CSS):** <br>
 https://github.com/GamovMax/PhpHtmlCss
 
-**Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):**
+**Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):** <br>
 https://github.com/GamovMax/Bash
 
-**Игра, 2D-платформер (Godot, GDScript):**
+**Игра, 2D-платформер (Godot, GDScript):** <br>
 https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
 
-**Учебные (студенческие) проекты:**
+**Учебные (студенческие) проекты:** <br>
 
-Курсовой проект. Web-приложение (PHP + HTML + CSS):
+Курсовой проект. Web-приложение (PHP + HTML + CSS): <br>
 https://github.com/GamovMax/WebPhpHtmlCss
 
-Лабораторные работы по C#:
+Лабораторные работы по C#: <br>
 https://github.com/GamovMax/CSharp
 
-Курсовой проект на delphi:
+Курсовой проект на delphi: <br>
 https://github.com/GamovMax/Delphi
 
-Второй курсовой проект на delphi:
+Второй курсовой проект на delphi: <br>
 https://github.com/GamovMax/Delphi2
 
-Бот для telegram (python):
+Бот для telegram (python): <br>
 https://github.com/GamovMax/PythonBotTelegram
 
-Опросник (JS + HTML):
+Опросник (JS + HTML): <br>
 https://github.com/GamovMax/JsHtml
 
 ---
