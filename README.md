@@ -45,19 +45,19 @@ https://stepik.org/cert/2803215
 **Мой базовый framework (Java + Selenium + JUnit + RestAssured):**<br>
 https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
 
-**Автотесты на python (python + pytest + selenium + requests):**  <br>
-https://github.com/GamovMax/PythonPytestSeleniumRequests
-
-**Разработанный мною сайт (PHP + HTML + CSS):** <br>
-https://github.com/GamovMax/PhpHtmlCss
-
 **Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):** <br>
 https://github.com/GamovMax/Bash
 
-**Игра, 2D-платформер (Godot, GDScript):** <br>
-https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
+**Учебные и студенческие проекты:** <br>
 
-**Учебные (студенческие) проекты:** <br>
+Автотесты на python (python + pytest + selenium + requests):<br>
+https://github.com/GamovMax/PythonPytestSeleniumRequests
+
+Разработанный мною сайт (PHP + HTML + CSS): <br>
+https://github.com/GamovMax/PhpHtmlCss
+
+Игра, 2D-платформер (Godot, GDScript): <br>
+https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
 
 Курсовой проект. Web-приложение (PHP + HTML + CSS): <br>
 https://github.com/GamovMax/WebPhpHtmlCss
