@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-**Работа с тест-кейсами:** TestRail, Allure TestOps.
+**Работа с тест-кейсами:** TestRail, ТестОпс.
 
 **Тестирование backend:** Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests, Allure.
 
