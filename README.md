@@ -60,6 +60,8 @@ https://github.com/GamovMax/PhpHtmlCss
 
 Игра, 2D-платформер (Godot, GDScript): <br>
 https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
+<br>
+https://github.com/GamovMax/GameGodotGDScriptPlatformer2D
 
 Курсовой проект. Web-приложение (PHP + HTML + CSS): <br>
 https://github.com/GamovMax/WebPhpHtmlCss
