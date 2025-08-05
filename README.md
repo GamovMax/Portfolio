@@ -44,7 +44,7 @@ https://stepik.org/cert/2611044<br>
 https://stepik.org/cert/2721029<br>
 https://stepik.org/cert/2803215
 
-**Мой базовый framework (Java + Selenium + JUnit + RestAssured):**<br>
+**Мой базовый framework (Java + Selenium + JUnit + RestAssured)(находится в процессе доработки):**<br>
 https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
 
 **Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):** <br>
