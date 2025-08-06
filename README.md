@@ -153,7 +153,7 @@ https://github.com/GamovMax/JsHtml
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" alt="JUnit" width="110" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" title="REST assured" alt="REST assured" width="40" height="40"/>&nbsp
   <img src="https://blog.sf.education/wp-content/uploads/2023/05/maxresdefault-2-792x416.jpg" title="requests" alt="requests" width="80" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/330px-Playwright_Logo.svg.png" title="Playwright" alt="Playwright" width="310" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/330px-Playwright_Logo.svg.png" title="Playwright" alt="Playwright" width="197" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" title="Godot Engine (GDScript)" alt="Godot Engine (GDScript)" width="40" height="40"/>&nbsp
 
 </div>
