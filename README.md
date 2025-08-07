@@ -216,8 +216,8 @@ https://github.com/GamovMax/JsHtml
   <img src="https://migsoft.ru/upload/iblock/6b4/6b4d60380ccd09a4669255e9a7ba9961.png" title="MobaXterm" alt="MobaXterm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" title="TeamCity" alt="TeamCity" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yandex_Cloud_logo.svg/320px-Yandex_Cloud_logo.svg.png" title="Yandex Cloud" alt="Yandex Cloud" width="267" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/OpenStack%C2%AE_Logo_2016.svg/330px-OpenStack%C2%AE_Logo_2016.svg.png" title="OpenStack" alt="OpenStack" width="83" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yandex_Cloud_logo.svg/320px-Yandex_Cloud_logo.svg.png" title="Yandex Cloud" alt="Yandex Cloud" width="267" height="40"/>&nbsp
 
 </div>
 
