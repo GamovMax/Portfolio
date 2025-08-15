@@ -29,20 +29,36 @@
 **Изучал в колледже и университете:**
 C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
 
-**Курсы и сертификаты:**<br>
+Курсы и сертификаты:<br>
+**"Selenium на Python" от Алексея Коледачкина**<br>
 https://stepik.org/cert/2488794<br>
+**Автоматизация тестирования java + selenium webdriver**<br>
 https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared<br>
+**Java. Базовый курс**<br>
 https://stepik.org/cert/2542670<br>
+**Программирование на Python**<br>
 https://stepik.org/cert/2539535<br>
+**Тестирование ПО: подготовка к сертификации ISTQB Foundation**<br>
 https://stepik.org/cert/2474443<br>
+**Введение в SQL**<br>
 https://stepik.org/cert/2467136<br>
+**Тестирование ПО: Postman для тестирования API**<br>
 https://stepik.org/cert/2465939<br>
+**Postman-ниндзя: c нуля до автотестов**<br>
 https://stepik.org/cert/2470327<br>
+**Тестирование ПО с нуля. Теория + Практика. Уровень BASIC**<br>
 https://stepik.org/cert/2525923<br>
+**Введение в Linux**<br>
 https://stepik.org/cert/2554377<br>
+**Ruby - первое знакомство**<br>
 https://stepik.org/cert/2611044<br>
+**Погружение в JavaScript: для начинающих**<br>
 https://stepik.org/cert/2721029<br>
+**PRO C#. Основы программирования**<br>
 https://stepik.org/cert/2803215
+
+Мои проекты:<br>
+
 
 **Мой базовый framework (Java + Selenium + JUnit + RestAssured)(находится в процессе доработки):**<br>
 https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
@@ -50,36 +66,36 @@ https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
 **Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):** <br>
 https://github.com/GamovMax/Bash
 
-**Учебные и студенческие проекты:** <br>
+Учебные и студенческие проекты: <br>
 
-Автотесты на python (python + pytest + selenium + requests):<br>
+**Автотесты на python (python + pytest + selenium + requests):**<br>
 https://github.com/GamovMax/PythonPytestSeleniumRequests
 
-Разработанный мною сайт (PHP + HTML + CSS): <br>
+**Разработанный мною сайт (PHP + HTML + CSS):** <br>
 https://github.com/GamovMax/PhpHtmlCss
 
-Игра, 2D-платформер (Godot, GDScript): <br>
+**Игра, 2D-платформер (Godot, GDScript):** <br>
 https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
 <br>
 <br>
 https://github.com/GamovMax/GameGodotGDScriptPlatformer2D
 
-Курсовой проект. Web-приложение (PHP + HTML + CSS): <br>
+**Курсовой проект. Web-приложение (PHP + HTML + CSS):** <br>
 https://github.com/GamovMax/WebPhpHtmlCss
 
-Лабораторные работы по C#: <br>
+**Лабораторные работы по C#:** <br>
 https://github.com/GamovMax/CSharp
 
-Курсовой проект на delphi: <br>
+**Курсовой проект на delphi:** <br>
 https://github.com/GamovMax/Delphi
 
-Второй курсовой проект на delphi: <br>
+**Второй курсовой проект на delphi:** <br>
 https://github.com/GamovMax/Delphi2
 
-Бот для telegram (python): <br>
+**Бот для telegram (python):** <br>
 https://github.com/GamovMax/PythonBotTelegram
 
-Опросник (JS + HTML): <br>
+**Опросник (JS + HTML):** <br>
 https://github.com/GamovMax/JsHtml
 
 ---
