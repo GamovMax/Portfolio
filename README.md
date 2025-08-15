@@ -31,33 +31,33 @@ C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
 
 Курсы и сертификаты:<br>
 **"Selenium на Python" от Алексея Коледачкина**<br>
-https://stepik.org/cert/2488794<br>
+https://stepik.org/cert/2488794
 **Автоматизация тестирования java + selenium webdriver**<br>
-https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared<br>
+https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared
 **Java. Базовый курс**<br>
-https://stepik.org/cert/2542670<br>
+https://stepik.org/cert/2542670
 **Программирование на Python**<br>
-https://stepik.org/cert/2539535<br>
+https://stepik.org/cert/2539535
 **Тестирование ПО: подготовка к сертификации ISTQB Foundation**<br>
-https://stepik.org/cert/2474443<br>
+https://stepik.org/cert/2474443
 **Введение в SQL**<br>
-https://stepik.org/cert/2467136<br>
+https://stepik.org/cert/2467136
 **Тестирование ПО: Postman для тестирования API**<br>
-https://stepik.org/cert/2465939<br>
+https://stepik.org/cert/2465939
 **Postman-ниндзя: c нуля до автотестов**<br>
-https://stepik.org/cert/2470327<br>
+https://stepik.org/cert/2470327
 **Тестирование ПО с нуля. Теория + Практика. Уровень BASIC**<br>
-https://stepik.org/cert/2525923<br>
+https://stepik.org/cert/2525923
 **Введение в Linux**<br>
-https://stepik.org/cert/2554377<br>
+https://stepik.org/cert/2554377
 **Ruby - первое знакомство**<br>
-https://stepik.org/cert/2611044<br>
+https://stepik.org/cert/2611044
 **Погружение в JavaScript: для начинающих**<br>
-https://stepik.org/cert/2721029<br>
+https://stepik.org/cert/2721029
 **PRO C#. Основы программирования**<br>
 https://stepik.org/cert/2803215
 
-Мои проекты:<br>
+<br>Мои проекты:<br>
 
 
 **Мой базовый framework (Java + Selenium + JUnit + RestAssured)(находится в процессе доработки):**<br>
@@ -66,7 +66,7 @@ https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
 **Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):** <br>
 https://github.com/GamovMax/Bash
 
-Учебные и студенческие проекты: <br>
+<br>Учебные и студенческие проекты: <br>
 
 **Автотесты на python (python + pytest + selenium + requests):**<br>
 https://github.com/GamovMax/PythonPytestSeleniumRequests
