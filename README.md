@@ -72,6 +72,8 @@ https://stepik.org/cert/2803215
 
 <br>Мои проекты:<br>
 
+**Мой pipeline автоматизированного запуска автотестов**<br>
+https://github.com/GamovMax/TestActions/blob/main/.github/workflows/python-app.yml
 
 **Мой базовый framework (Java + Selenium + JUnit + RestAssured)(находится в процессе доработки):**<br>
 https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
