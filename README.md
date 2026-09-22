@@ -88,10 +88,10 @@ https://stepik.org/cert/3152598
 https://stepik.org/cert/3192480
 
 **Python – Модуль 1**<br>
-https://stepik.org/certificate/9f6060cbe6ee8df115607a13a28ff5a55ce9f934.pdf
+https://stepik.org/cert/3207862
 
 **Вселенная тестирования**<br>
-https://stepik.org/certificate/45946d5cea2ed3a6fa8833dfd58f1b588d622586.pdf
+https://stepik.org/cert/3227251
 
 **Лучший в IT. Как работает интернет + фронтенд**<br>
 https://stepik.org/cert/3298544
