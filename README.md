@@ -8,7 +8,7 @@
 
 **Тестирование backend:** Java, JUnit, TestNG, REST assured, Postman, SoapUI, Swagger, devtools, Python, Pytest, Requests, Allure, Bruno, Insomnia, Playwright, curl.
 
-**Разработка ui автотестов:** Java, JUnit, Selenium, Playwright, TestNG, Allure, Selenium Grid, Python, Purest, TypeScript.
+**Разработка ui автотестов:** Java, JUnit, Selenium, Playwright, TestNG, Allure, Selenium Grid, Python, Pytest, TypeScript.
 
 **Работа с виртуальными машинами** (Virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox, YandexCloud) и **физическими серверами** (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
