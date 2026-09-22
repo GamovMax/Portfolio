@@ -27,7 +27,7 @@
 На последнем рабочем месте:
 
 – Привёл в порядок автотестовый фреймворк (Python + Pytest + Playwright) после двух студентов-стажёров, которые никогда не занимались до этого автотестами (после длительного рефакторинга проект удалось привести к POM);<br>
-– На следующем проекте с нуля написал автотестовый Фреймворк для e2e автотестов (Python + Pytest + Playwright + POM), настроил ночные прогоны автотестов;<br>
+– На следующем проекте с нуля написал автотестовый фреймворк для e2e автотестов (Python + Pytest + Playwright + POM), настроил ночные прогоны автотестов;<br>
 – После этого моим руководителем было принято решение сменить стек. Я с нуля написал автотестовый фреймворк на TypeScript + Playwright (паттерн проектирования: Page Object Model);<br> <br>
 
 На прошлых местах работы:<br> <br>
@@ -74,6 +74,28 @@ https://stepik.org/cert/2721029
 
 **PRO C#. Основы программирования**<br>
 https://stepik.org/cert/2803215
+
+**Тестирование ПО с нуля. Тесты**<br>
+https://stepik.org/certificate/fbc9d2d129d77a734345c85f2c379eba67c6dde0.pdf
+
+**Старый Новый Баг!**<br>
+https://stepik.org/certificate/fbc9d2d129d77a734345c85f2c379eba67c6dde0.pdf
+
+**Лучший по Python. Часть 1**<br>
+https://stepik.org/certificate/19d5bca65d8484953f8cde1c346ff57835d2bb9a.pdf
+
+**Лучший по Python. Часть 2**<br>
+https://stepik.org/certificate/87c685919b067f37d79d035500b75a32aa2f87ad.pdf
+
+**Python – Модуль 1**<br>
+https://stepik.org/certificate/9f6060cbe6ee8df115607a13a28ff5a55ce9f934.pdf
+
+**Вселенная тестирования**<br>
+https://stepik.org/certificate/45946d5cea2ed3a6fa8833dfd58f1b588d622586.pdf
+
+**Лучший в IT. Как работает интернет + фронтенд**<br>
+https://stepik.org/certificate/83adc92bb38f8df7cf2f861e6f91cb429e3d32df.pdf
+
 
 <br>Мои проекты:<br>
 
