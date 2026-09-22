@@ -4,19 +4,19 @@
 
 ### 👨‍💻 Обо мне:
 
-**Работа с тест-кейсами:** TestRail, Allure TestOps.
+**Работа с тест-кейсами:** TestRail, Allure TestOps, TFS.
 
-**Тестирование backend:** Java, JUnit, TestNG, REST assured, postman, SoapUI, swagger, devtools, Python, pytest, requests, Allure.
+**Тестирование backend:** Java, JUnit, TestNG, REST assured, Postman, SoapUI, Swagger, devtools, Python, Pytest, Requests, Allure, Bruno, Insomnia, Playwright, curl.
 
-**Разработка ui автотестов:** Java, JUnit, Selenium, Playwright, TestNG, Allure, Selenium Grid, Python, pytest.
+**Разработка ui автотестов:** Java, JUnit, Selenium, Playwright, TestNG, Allure, Selenium Grid, Python, Purest, TypeScript.
 
-**Работа с виртуальными машинами** (virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox) и **физическими серверами** (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
+**Работа с виртуальными машинами** (Virtualbox, VMware, Hyper-V, VMware ESXi, Proxmox, YandexCloud) и **физическими серверами** (Linux, Windows Server): samba, pxe, iRedmail, Active Directory, XMPP(ejabberd), web-сервера.
 
-**Оформление и сопровождение багов:** Redmine, Mantis, YouTrack.
+**Оформление и сопровождение багов:** Redmine, Mantis, YouTrack, TFS.
 
 **Снифферы трафика:** Charles Proxy, Fiddler.
 
-**Базовое нагрузочное тестирование:** Jmeter, Locust, wrk, Apache Bench, vegeta, siege.
+**Базовое нагрузочное тестирование:** Jmeter, Locust, wrk, Apache Bench, vegeta, siege, K6.
 
 **Работа с документацией:** Confluence.
 
@@ -24,10 +24,15 @@
 
 **Дополнительно:**
 
-Администрирование 200 клиентских компьютеров; удалённое администрирование компьютеров в филиалах(компьютеры подключены через OpenVPN); осуществление выездных приёмов; администрирование почтового сервера microsoft exchange; администрирование файловых серверов; администрирование DHCP; администрирование Active Directory; прокладывание компьютерной сети; настройка маршрутизаторов; сборка\разборка системных блоков; установка\удаление\восстановление ОС и ПО; работа с apache и MySQL; Администрирование\разворачивание\миграция серверов на ос Linux(debian, ubuntu, redhat, centos, mint, opensuse); разворачивание и администрирование серверов: sftp, ftp, samba, pxe, zabbix, gns3, iRedmail, Active Directory(на censtos, ubuntu, WindowsServer), web-сервер; администрирование сервера видеонаблюдения (trassir); администрирование СКУД Sphinx; работа с виртуальными машинами(virtualbox, VMware, Hyper-V, VMware ESXi; Proxmox; Yandex Cloud); удалённое администрирование(RDP, ssh, Ansible, AnyDesk, teamviewer, TightVNC, RAdmin, ammyy admin, LiteManager, chrome remote desktop); создание и восстановление бэкапов(acronis true image, acronis backup, R-Drive Image, GParted); Разворачивание и администрирование asterisk(freepbx), VPN(OpenVPN); работа с электронными подписями (криптопро, криптоарм, SimpleSigner); XMPP(ejabberd); git; Создание сайтов, форумов, интернет магазинов и файлообменников на CMS (WordPress; Joomla; OpenCart; Tilda; Drupal; phpBB); Cisco Packet Tracer; Wireshark; tcpdump; OpenMediaVault; ownCloud; ipFire; smoothwall; был руководителем отдела информационных технологий на протяжении 1,5 лет;
+На последнем рабочем месте:
 
-**Изучал в колледже и университете:**
-C++; c#; perl; JavaScript; python; delphi; HTML; CSS; SQL;
+– Привёл в порядок автотестовый Фреймворк (Python + Pytest + Playwright) после двух студентов-стажёров, которые никогда не занимались до этого автотестами (после длительного рефакторинга проект удалось привести к POM);
+– На следующем проекте с нуля написал автотестовый Фреймворк для e2e автотестов (Python + Pytest + Playwright + POM), настроил ночные прогоны автотестов;
+– После этого моим руководителем было принято решение сменить стек. Я с нуля написал автотестовый фреймворк на TypeScript + Playwright (паттерн проектирования: Page Object Model);
+
+На прошлых местах работы:
+
+Администрирование 200 клиентских компьютеров; удалённое администрирование компьютеров в филиалах(компьютеры подключены через OpenVPN); осуществление выездных приёмов; администрирование почтового сервера microsoft exchange; администрирование файловых серверов; администрирование DHCP; администрирование Active Directory; прокладывание компьютерной сети; настройка маршрутизаторов; сборка\разборка системных блоков; установка\удаление\восстановление ОС и ПО; работа с apache и MySQL; Администрирование\разворачивание\миграция серверов на ос Linux(debian, ubuntu, redhat, centos, mint, opensuse); разворачивание и администрирование серверов: sftp, ftp, samba, pxe, zabbix, gns3, iRedmail, Active Directory(на censtos, ubuntu, WindowsServer), web-сервер; администрирование сервера видеонаблюдения (trassir); администрирование СКУД Sphinx; работа с виртуальными машинами(virtualbox, VMware, Hyper-V, VMware ESXi; Proxmox; Yandex Cloud); удалённое администрирование(RDP, ssh, Ansible, AnyDesk, teamviewer, TightVNC, RAdmin, ammyy admin, LiteManager, chrome remote desktop); создание и восстановление бэкапов(acronis true image, acronis backup, R-Drive Image, GParted); Разворачивание и администрирование asterisk(freepbx), VPN(OpenVPN); работа с электронными подписями (криптопро, криптоарм, SimpleSigner); XMPP(ejabberd); git; Создание сайтов, форумов, интернет магазинов и файлообменников на CMS (WordPress; Joomla; OpenCart; Tilda; Drupal; phpBB); Cisco Packet Tracer; Wireshark; tcpdump; OpenMediaVault; ownCloud; ipFire; smoothwall; был руководителем отдела информационных технологий на протяжении 1,5 лет;
 
 <br>Курсы и сертификаты:<br>
 
@@ -77,41 +82,6 @@ https://github.com/GamovMax/TestActions/blob/main/.github/workflows/python-app.y
 
 **Мой базовый framework (Java + Selenium + JUnit + RestAssured)(находится в процессе доработки):**<br>
 https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
-
-**Bash-скрипт (многое из скрипта удалено из-за неразглашения коммерческой тайны):** <br>
-https://github.com/GamovMax/Bash
-
-<br>Учебные и студенческие проекты: <br>
-
-**Автотесты на python (python + pytest + selenium + requests):**<br>
-https://github.com/GamovMax/PythonPytestSeleniumRequests
-
-**Разработанный мною сайт (PHP + HTML + CSS):** <br>
-https://github.com/GamovMax/PhpHtmlCss
-
-**Игра, 2D-платформер (Godot, GDScript):** <br>
-https://drive.google.com/file/d/1T7ikO2yxbSCWsn-ieCu0N3PKpgAJczEg/view?usp=sharing
-<br>
-<br>
-https://github.com/GamovMax/GameGodotGDScriptPlatformer2D
-
-**Курсовой проект. Web-приложение (PHP + HTML + CSS):** <br>
-https://github.com/GamovMax/WebPhpHtmlCss
-
-**Лабораторные работы по C#:** <br>
-https://github.com/GamovMax/CSharp
-
-**Курсовой проект на delphi:** <br>
-https://github.com/GamovMax/Delphi
-
-**Второй курсовой проект на delphi:** <br>
-https://github.com/GamovMax/Delphi2
-
-**Бот для telegram (python):** <br>
-https://github.com/GamovMax/PythonBotTelegram
-
-**Опросник (JS + HTML):** <br>
-https://github.com/GamovMax/JsHtml
 
 ---
 
