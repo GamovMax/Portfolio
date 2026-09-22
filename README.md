@@ -42,6 +42,9 @@ https://stepik.org/cert/2488794
 **Автоматизация тестирования java + selenium webdriver**<br>
 https://youtube.com/playlist?list=PLZqgWWF4O-ziBZVXN19WcRHPM5DkH672c&feature=shared
 
+**Page Object Model**<br>
+https://youtu.be/2HdTiE_S_Ko?si=vZeSSkStDFo5S2FF
+
 **Java. Базовый курс**<br>
 https://stepik.org/cert/2542670
 
