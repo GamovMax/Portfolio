@@ -76,16 +76,16 @@ https://stepik.org/cert/2721029
 https://stepik.org/cert/2803215
 
 **Тестирование ПО с нуля. Тесты**<br>
-https://stepik.org/certificate/fbc9d2d129d77a734345c85f2c379eba67c6dde0.pdf
+https://stepik.org/cert/3140995
 
 **Старый Новый Баг!**<br>
-https://stepik.org/certificate/fbc9d2d129d77a734345c85f2c379eba67c6dde0.pdf
+https://stepik.org/cert/3144398
 
 **Лучший по Python. Часть 1**<br>
-https://stepik.org/certificate/19d5bca65d8484953f8cde1c346ff57835d2bb9a.pdf
+https://stepik.org/cert/3152598
 
 **Лучший по Python. Часть 2**<br>
-https://stepik.org/certificate/87c685919b067f37d79d035500b75a32aa2f87ad.pdf
+https://stepik.org/cert/3192480
 
 **Python – Модуль 1**<br>
 https://stepik.org/certificate/9f6060cbe6ee8df115607a13a28ff5a55ce9f934.pdf
@@ -94,8 +94,7 @@ https://stepik.org/certificate/9f6060cbe6ee8df115607a13a28ff5a55ce9f934.pdf
 https://stepik.org/certificate/45946d5cea2ed3a6fa8833dfd58f1b588d622586.pdf
 
 **Лучший в IT. Как работает интернет + фронтенд**<br>
-https://stepik.org/certificate/83adc92bb38f8df7cf2f861e6f91cb429e3d32df.pdf
-
+https://stepik.org/cert/3298544
 
 <br>Мои проекты:<br>
 
