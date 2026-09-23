@@ -220,7 +220,7 @@ https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/5218804/pub_63c8e6593719c524dd71db9b_63c8e90d81a65249513047b5/scale_720" title="osTicket" alt="osTicket" width="74" height="40"/>&nbsp
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/%D0%A0%D0%95%D0%94_%D0%9E%D0%A1_redblack_web.svg/330px-%D0%A0%D0%95%D0%94_%D0%9E%D0%A1_redblack_web.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="РЕД ОС" alt="РЕД ОС" width="110" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/ru/8/86/Astra_Linux.png" title="Astra Linux" alt="Astra Linux" width="105" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" title="Docker" alt="Docker" width="150" height="40"/>&nbsp
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/330px-Docker_%28container_engine%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="Docker" alt="Docker" width="169" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" title="Apache HTTP server" alt="Apache HTTP server" width="90" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Joomla%21-Logo.svg" title="Joomla" alt="Joomla" width="202" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCart_logo.svg" title="OpenCart" alt="OpenCart" width="205" height="40"/>&nbsp
