@@ -116,6 +116,7 @@ https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
   <img src='https://marketplace.atlassian.com/files/eaaf85d7-dc1e-499c-82de-7c3278f88b7b?fileType=image&mode=full-fit' title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
   <img src="https://infostart.ru/upload/iblock/2c6/redmine-logo-300x300-png8.png" title="Redmine" alt="Redmine" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Mantis_Bug_Tracker_logo.png" title="Mantis" alt="Mantis" width="116" height="40"/>&nbsp
 </div>
 
@@ -240,7 +241,6 @@ https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
   <img src="https://avatars.githubusercontent.com/u/17677083?s=200&v=4" title="mRemoteNG" alt="mRemoteNG" width="40" height="40"/>&nbsp
   <img src="https://onion.io/wp-content/uploads/2017/11/Moba-Logo.jpg" title="MobaXterm" alt="MobaXterm" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" title="TeamCity" alt="TeamCity" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/OpenStack%C2%AE_Logo_2016.svg/330px-OpenStack%C2%AE_Logo_2016.svg.png" title="OpenStack" alt="OpenStack" width="83" height="40"/>&nbsp
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Yandex_Cloud_logo.svg/330px-Yandex_Cloud_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="Yandex Cloud" alt="Yandex Cloud" width="269" height="40"/>&nbsp
 
