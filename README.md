@@ -18,7 +18,7 @@
 
 **Базовое нагрузочное тестирование:** Jmeter, Locust, wrk, Apache Bench, vegeta, siege, K6.
 
-**Работа с документацией:** Confluence.
+**Работа с документацией:** Confluence, Allure Report.
 
 **CI/CD:** TeamCity, Jenkins, GitLab CI/CD, GitHub Actions.
 
@@ -117,6 +117,7 @@ https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
   <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
   <img src="https://infostart.ru/upload/iblock/2c6/redmine-logo-300x300-png8.png" title="Redmine" alt="Redmine" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
+  <img src="https://conference.eurostarsoftwaretesting.com/wp-content/uploads/2023/08/Allure-Report-Logo.png" title="allure report" alt="allure report" width="40" height="40"/>&nbsp
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Windows_Azure_logo.png/330px-Windows_Azure_logo.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" title="Azure DevOps Server" alt="Azure DevOps Server" width="174" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Mantis_Bug_Tracker_logo.png" title="Mantis" alt="Mantis" width="116" height="40"/>&nbsp
 </div>
