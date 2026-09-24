@@ -130,6 +130,7 @@ https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
   <img src="https://oss.iqrator.org/wp-content/uploads/2025/12/Bruno-.png" title="bruno" alt="bruno" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="postman" alt="postman" width="132" height="40"/>&nbsp
 </div>
 
