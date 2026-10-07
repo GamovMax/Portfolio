@@ -99,13 +99,10 @@ https://stepik.org/cert/3227251
 **Лучший в IT. Как работает интернет + фронтенд**<br>
 https://stepik.org/cert/3298544
 
-<br>Мои проекты:<br>
+<br><br>
 
 **Мой pipeline автоматизированного запуска автотестов:**<br>
 https://github.com/GamovMax/TestActions/blob/main/.github/workflows/python-app.yml
-
-**Мой базовый framework (Java + Selenium + JUnit + RestAssured)(находится в процессе доработки):**<br>
-https://github.com/GamovMax/POMSeleniumJavaJUnitRestAssured
 
 ---
 
