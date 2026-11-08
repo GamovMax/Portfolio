@@ -97,7 +97,10 @@ https://stepik.org/cert/3207862
 https://stepik.org/cert/3227251
 
 **Лучший в IT. Как работает интернет + фронтенд**<br>
-https://stepik.org/cert/3298544<br><br>
+https://stepik.org/cert/3298544<br>
+
+**TypeScript**<br>
+https://stepik.org/cert/3383520<br><br>
 
 **Мой pipeline автоматизированного запуска автотестов:**<br>
 https://github.com/GamovMax/TestActions/blob/main/.github/workflows/python-app.yml
