@@ -102,7 +102,7 @@ https://stepik.org/cert/3298544<br>
 **TypeScript**<br>
 https://stepik.org/cert/3383520<br><br>
 
-**Мой базовый framework (Java + TestNG + Selenium):**<br>
+**Мой базовый framework (Java + TestNG + Selenium + Page Object Model):**<br>
 https://github.com/GamovMax/Demo
 
 **Мой pipeline автоматизированного запуска автотестов:**<br>
